@@ -1,4 +1,6 @@
-// This class includes methods for Golisano, Gosnell, Commuter, and Residential parking fee calculation
+/**
+ * This class includes methods for Golisano, Gosnell, Commuter, and Residential parking fee calculation
+ */
 public class FeeVisitor implements ParkingSpotVisitor {
     // Methods belows should contain logic for calculating fee for different parking spots
     @Override

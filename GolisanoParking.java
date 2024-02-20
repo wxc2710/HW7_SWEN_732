@@ -1,5 +1,7 @@
-// This class is one of the objects in the Visitor pattern,
-// represents parking spots for Golisano students within the RIT campus
+/**
+ * This class is one of the objects in the Visitor pattern,
+ * represents parking spots for Golisano students within the RIT campus
+ */
 
 public class GolisanoParking implements ParkingSpot {
     // This method points the visitors to perform operations specific to GolisanoParking spots.

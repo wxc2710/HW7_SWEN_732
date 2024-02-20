@@ -1,5 +1,7 @@
-// Main class that uses the Visitor pattern for a RIT parking system
-// It contains  collection of ParkingSpots and uses FeeVisitor for calculation
+/**
+ *  Main class that uses the Visitor pattern for a RIT parking system
+ *  It contains  collection of ParkingSpots and uses FeeVisitor for calculation.
+ *  */
 public class Main {
     public static void main(String[] args) {
 

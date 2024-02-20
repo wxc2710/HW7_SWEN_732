@@ -1,6 +1,7 @@
-// The ParkingSpotVisitor interface declares a set of visiting methods for different types
-// of parking spots within the RIT campus parking system. It's a crucial component of the Visitor pattern,
-// enabling the implementation of operations (visitors) that can act on various elements (parking spots)
+/**
+ * The ParkingSpotVisitor interface declares a set of visiting methods for different types
+ * of parking spots within the RIT campus parking system.
+ */
 
 public interface ParkingSpotVisitor {
 

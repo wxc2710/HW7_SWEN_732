@@ -1,7 +1,8 @@
 import java.util.*;
-// This class acts as a collection of ParkingSpot elements.
-// It demonstrates the part of the Composite pattern that allows clients to treat
-// individual objects (ParkingSpots) and compositions of objects uniformly.
+/**
+ * This class acts as a collection of ParkingSpot elements.
+ */
+
     public class ParkingLot {
     private List<ParkingSpot> parkingSpots = new ArrayList<>();
 
